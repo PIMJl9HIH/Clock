@@ -1,0 +1,19 @@
+.wrap {
+  margin: 20px auto;
+  max-width: 80%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  line-height: 1;
+  background: -webkit-linear-gradient(rgb(34, 233, 223), rgb(25, 140, 235));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+canvas {
+  margin: 0 auto;
+  display: flex;
+  border-radius: 30px;
+}
